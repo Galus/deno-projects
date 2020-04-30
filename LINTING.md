@@ -4,6 +4,7 @@ The community is already asking for a linter, and asking for eslint support.
 The TLDR is that the community wants to standardize their own linter rather
 than having to support multiple linters and code styles. Already a lint project
 is being developed @ https://github.com/denoland/deno_lint 
+https://github.com/denoland/deno/issues/1880
 
 # Setting up Deno Lint
 The [Deno Lint](https://github.com/denoland/deno_lint) project is a rust crate that needs to be built with rust's `cargo`
